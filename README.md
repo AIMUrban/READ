@@ -1,4 +1,4 @@
-# Urban Region Embedding with Adaptive Region Correlation Discovery
+# Region Embedding with Adaptive Correlation Discovery for Predicting Urban Socioeconomic Indicators
 
 These are the source codes for the **READ** model and its corresponding data.
 
@@ -20,3 +20,5 @@ These are the source codes for the **READ** model and its corresponding data.
 
   save_emb/ — These are the learned embeddings of urban regions. Their data form is a 270x128 matrix,  where 270 is the number of regions and 128 is the dimension size of the region embedding.
 
+
+  
