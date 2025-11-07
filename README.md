@@ -20,5 +20,15 @@ These are the source codes for the **READ** model and its corresponding data.
 
   save_emb/ — These are the learned embeddings of urban regions. Their data form is a 270x128 matrix,  where 270 is the number of regions and 128 is the dimension size of the region embedding.
 
+- Citation
+  ```bibtex
+  @article{chen2025region,
+    title={Region Embedding with Adaptive Correlation Discovery for Predicting Urban Socioeconomic Indicators},
+    author={Chen, Meng and Jia, Hongwei and Li, Zechen and Huang, Weiming and Zhao, Kai and Gong, Yongshun and Xu, Haoran and Dai, Hongjun},
+    journal={IEEE Transactions on Knowledge and Data Engineering},
+    year={2025},
+    publisher={IEEE}
+  }
+
 
   
